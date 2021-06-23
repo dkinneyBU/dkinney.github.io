@@ -8,7 +8,7 @@ image: assets/images/about/author.jpg
 I grew up on Long Island in the 60s and 70s and entered the U.S. Navy after graduating from High School.
 I earned an Associate's degree in General Science from the State University of New York while serving.
 I've traveled around quite a bit, working for a number of different companies in different roles--
-Tennessee, California, Pennsylvania, Connecticut, Maryland Michigan and now Georgia, in positions such
+Tennessee, California, Pennsylvania, Connecticut, Maryland, Michigan and now Georgia, in positions such
 as Director of Information Systems, Technical Support Manager, Full Stack Developer and Data Scientist.
 
 As I moved around, I attended Universities wherever I happened to be living--Lock Haven State University
