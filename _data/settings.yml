@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: David (Dave) Kinney
 logo: 
-author: themefisher
+author: David Kinney
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: david_g_kinney@outlook.com
+phone: 
+address: 
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -41,7 +41,7 @@ hero:
   hero-title: Hi! I’m <br> Christoher <br> UX designer
 
 social:
-- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/david-kinney-31345625"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Working backwards through time, I am currently a Data Scientist at Truist Financial in Atlanta. I'm also in my last class for my Masters degree in Data Science from Bellevue University (A's in every class so far! Woohoo!). I'm a Pythonista, a ML/DL/RL/Robotics hobbyist, and a life-long coder. Prior to my current gig, I've spent most of the previous 4 decades as some form of coder (most recently, a full-stack .NET developer. Not that I remember any of that now...) I also hold a B.S in Computer Science and Math from the University of Hartford (Cum Laude) and an Associates in General Science from the S.U.N.Y., that I acquired while I was serving in the U.S. Navy from 1977 to 1981. I am married to a lovely woman from Michigan and share my life with Brutus, Tank (Jack Russells), Pi (chihuaha) and Sidney (tabby cat).
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
