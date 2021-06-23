@@ -1,18 +1,16 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: David Kinney
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I grew up on Long Island in the 60s and 70s and entered the U.S. Navy after graduating from High School.
+I earned an Associate's degree in General Science from the State University of New York while serving.
+I've traveled around quite a bit, working for a number of different companies in different roles--
+Tennessee, California, Pennsylvania, Connecticut, Maryland Michigan and now Georgia, in positions such
+as Director of Information Systems, Technical Support Manager, Full Stack Developer and Data Scientist.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I currently live in Dacula, GA and work for Truist Financial as a Business Intelligence Lead Consultant.
+My back yard is my sanctuary, where I like to sit and read or play guitar. I've also recently returned
+to hiking, something I loved to do in my 20s and 30s.
