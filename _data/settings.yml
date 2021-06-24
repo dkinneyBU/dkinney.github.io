@@ -167,26 +167,26 @@ portfolio-home-items:
 
 
 # Portfolio Page
-portfolio-label:
-- {
-    title : "UI/UX Design",
-    type : "design"
-  }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
+# portfolio-label:
+# - {
+#     title : "UI/UX Design",
+#     type : "design"
+#   }
+# - {
+#     title : "BRANDING",
+#     type : "branding"
+#   }
+# - {
+#     title : "ILLUSTRATION",
+#     type : "illustration"
+#   }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
+    url: "#/projects/Breast-Cancer-Prediction-and-Detection.md"
+#     portfolio-type:
+#      - type: "design"
+#      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
