@@ -183,7 +183,7 @@ portfolio-home-items:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#/projects/Breast-Cancer-Prediction-and-Detection.md"
+    url: "/Breast-Cancer-Prediction-and-Detection.md"
 #     portfolio-type:
 #      - type: "design"
 #      - type: "illustration"
