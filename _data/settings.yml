@@ -151,7 +151,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "/Breast-Cancer-Prediction-and-Detection.md"
+    url: "/portfolio/Breast-Cancer-Prediction-and-Detection.md"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
@@ -183,7 +183,7 @@ portfolio-home-items:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "/Breast-Cancer-Prediction-and-Detection.md"
+    url: "/portfolio/Breast-Cancer-Prediction-and-Detection.md"
 #     portfolio-type:
 #      - type: "design"
 #      - type: "illustration"
