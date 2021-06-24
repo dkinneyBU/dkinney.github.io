@@ -116,8 +116,8 @@ blurb-btn-name: know more
 
 education-title: Education
 education:
-- {name: Master's in Data Science date: '2021', organization: 'Bellevue University'}
-- {name: Bachelor's in Computer Science, date: '1990', organization: 'University of Hrtford'}
+- {name: Masters in Data Science, date: '2021', organization: 'Bellevue University'}
+- {name: Bachelors in Computer Science, date: '1990', organization: 'University of Hrtford'}
 
 #-------------------------------
 # Services Section
