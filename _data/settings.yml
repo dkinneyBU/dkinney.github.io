@@ -164,6 +164,8 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
 
+  - image : "assets/images/portfolio/item-6.png"
+    url: "#"
 
 # Portfolio Page
 # portfolio-label:
@@ -208,7 +210,13 @@ portfolio-items:
 #     portfolio-type:
 #       - type: "design"
 #       - type: "branding"
-   
+
+  - image : "assets/images/portfolio/item-6.png"
+    url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "branding"
+
 #-------------------------------
 # Testimonials Section
 
