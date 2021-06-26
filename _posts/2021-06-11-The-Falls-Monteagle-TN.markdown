@@ -11,3 +11,4 @@ My wife Annette and I went away for five days without "the kids". By day, she we
 
 ![20210611_111245](https://user-images.githubusercontent.com/43932354/123275200-1ece7680-d4d2-11eb-9e1b-aeeac370f30d.jpg)
 
+<img src="https://user-images.githubusercontent.com/43932354/123275200-1ece7680-d4d2-11eb-9e1b-aeeac370f30d.jpg" height="20%" width="20%">
