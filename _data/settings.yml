@@ -42,9 +42,8 @@ hero:
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/david-kinney-31345625"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-youtube", link: "#"}
+
 
 
 #-------------------------------
@@ -193,7 +192,7 @@ portfolio-items:
 #     portfolio-type:
 #       - type: "branding"
       
- - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/item-2.png"
     url: "#"
 #     portfolio-type:
 #       - type: "design"
