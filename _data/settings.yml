@@ -156,7 +156,7 @@ portfolio-home-items:
     url: "/portfolio/Predicting-Exoplanets.html"
     
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "/portfolio/Global-Warming.html"
     
   - image : "assets/images/portfolio/item-4.png"
     url: "#"
@@ -193,7 +193,7 @@ portfolio-items:
 #       - type: "branding"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "/portfolio/Global-Warming.html"
 #     portfolio-type:
 #       - type: "design"
 #       - type: "branding"
