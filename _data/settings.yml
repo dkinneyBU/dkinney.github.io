@@ -154,7 +154,7 @@ portfolio-home-items:
     url: "/portfolio/Breast-Cancer-Prediction-and-Detection.html"
     
   - image : "assets/images/portfolio/item-3.png"
-    url: "/portfolio/exoplanet-predictor.html"
+    url: "/portfolio/Predicting-Exoplanets.html"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
@@ -189,22 +189,17 @@ portfolio-items:
 #      - type: "illustration"
       
   - image : "assets/images/portfolio/item-3.png"
-    url: "/portfolio/exoplanet-predictor.html"
+    url: "/portfolio/Predicting-Exoplanets.html"
     portfolio-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
+ - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
       - type: "design"
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/portfolio/item-4.png"
     url: "#"
     portfolio-type:
       - type: "illustration"
@@ -213,26 +208,9 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
       - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-
-#-------------------------------
+   
+ #-------------------------------
 # Testimonials Section
 
 # testimonial-items:
